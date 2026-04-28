@@ -1,0 +1,3 @@
+VS Code Feature: Multi-Cursor Editing
+This branch demonstrates how to use the multi-cursor feature in VS Code.
+Hold Alt (Windows) and click in multiple places to place cursors everywhere at once.
